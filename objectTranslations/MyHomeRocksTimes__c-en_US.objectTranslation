@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>MyHomeRocksTime</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>MyHomeRocksTimes</value>
+    </caseValues>
+    <fields>
+        <label><!-- Aadhar Number --></label>
+        <name>Aadhar_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current Address --></label>
+        <name>Current_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Discount Available --></label>
+        <name>Discount_Available__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Discount Type --></label>
+        <name>Discount_Type__c</name>
+        <picklistValues>
+            <masterLabel>Event</masterLabel>
+            <translation><!-- Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manager</masterLabel>
+            <translation><!-- Manager --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web</masterLabel>
+            <translation><!-- Web --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Discounted Amount --></label>
+        <name>Discounted_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- F/H Name --></label>
+        <name>F_H_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- First Name --></label>
+        <name>First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Floor --></label>
+        <name>Floor__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Gender --></label>
+        <name>Gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- House Facing --></label>
+        <name>House_Facing__c</name>
+        <picklistValues>
+            <masterLabel>East</masterLabel>
+            <translation><!-- East --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>West</masterLabel>
+            <translation><!-- West --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- House Type --></label>
+        <name>House_Type__c</name>
+        <picklistValues>
+            <masterLabel>2BHK</masterLabel>
+            <translation><!-- 2BHK --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3BHK</masterLabel>
+            <translation><!-- 3BHK --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4BHK</masterLabel>
+            <translation><!-- 4BHK --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Interested-In --></label>
+        <name>Interested_In__c</name>
+        <picklistValues>
+            <masterLabel>Duplex</masterLabel>
+            <translation><!-- Duplex --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flats</masterLabel>
+            <translation><!-- Flats --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Independant</masterLabel>
+            <translation><!-- Independant --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Last Name --></label>
+        <name>Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead Source --></label>
+        <name>Lead_Source__c</name>
+        <picklistValues>
+            <masterLabel>Email</masterLabel>
+            <translation><!-- Email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Event</masterLabel>
+            <translation><!-- Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pamphlet</masterLabel>
+            <translation><!-- Pamphlet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone</masterLabel>
+            <translation><!-- Phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Referral</masterLabel>
+            <translation><!-- Referral --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Walk-In</masterLabel>
+            <translation><!-- Walk-In --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web</masterLabel>
+            <translation><!-- Web --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Lead Status --></label>
+        <name>Lead_Status__c</name>
+        <picklistValues>
+            <masterLabel>Closed-Lost</masterLabel>
+            <translation><!-- Closed-Lost --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Closed-Won</masterLabel>
+            <translation><!-- Closed-Won --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Open</masterLabel>
+            <translation><!-- Open --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MyHomeNewField --></label>
+        <name>MyHomeNewField__c</name>
+    </fields>
+    <fields>
+        <label><!-- PAN Number --></label>
+        <name>PAN_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone Number --></label>
+        <name>Phone_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Proffesion --></label>
+        <name>Proffesion__c</name>
+        <picklistValues>
+            <masterLabel>Salaried</masterLabel>
+            <translation><!-- Salaried --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Self Employed</masterLabel>
+            <translation><!-- Self Employed --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Total Price --></label>
+        <name>Total_Price__c</name>
+    </fields>
+    <fields>
+        <label><!-- Unit Price --></label>
+        <name>Unit_Price__c</name>
+        <picklistValues>
+            <masterLabel>2800000</masterLabel>
+            <translation><!-- 2800000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3000000</masterLabel>
+            <translation><!-- 3000000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3500000</masterLabel>
+            <translation><!-- 3500000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4500000</masterLabel>
+            <translation><!-- 4500000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6000000</masterLabel>
+            <translation><!-- 6000000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7500000</masterLabel>
+            <translation><!-- 7500000 --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>MyHomeRocks Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- House Info --></label>
+            <section>House Info</section>
+        </sections>
+        <sections>
+            <label><!-- Price Info --></label>
+            <section>Price Info</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

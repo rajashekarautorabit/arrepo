@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>Hierarchy</customSettingsType>
+    <description>Multi channel Settings desc</description>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>One_Docs__c</fullName>
+        <externalId>false</externalId>
+        <label>One Docs</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Send_To__c</fullName>
+        <externalId>false</externalId>
+        <label>Send To</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>contact_number__c</fullName>
+        <externalId>false</externalId>
+        <label>contact number</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <label>Multi channel Settings</label>
+    <visibility>Public</visibility>
+</CustomObject>
