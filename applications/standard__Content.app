@@ -8,6 +8,4 @@
     <tabs>standard-Workspace</tabs>
     <tabs>standard-ContentSearch</tabs>
     <tabs>standard-ContentSubscriptions</tabs>
-    <tabs>Object1__c</tabs>
-    <tabs>Omega__c</tabs>
 </CustomApplication>

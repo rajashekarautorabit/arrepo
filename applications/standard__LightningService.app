@@ -13,17 +13,9 @@
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-home</tabs>
-    <tabs>Object1__c</tabs>
-    <tabs>Omega__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
     <workspaceConfig>
-        <mappings>
-            <tab>Object1__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Omega__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

@@ -179,15 +179,7 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
-    <tabs>Object1__c</tabs>
-    <tabs>Omega__c</tabs>
     <workspaceConfig>
-        <mappings>
-            <tab>Object1__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Omega__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

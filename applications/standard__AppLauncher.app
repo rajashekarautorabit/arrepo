@@ -5,6 +5,4 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <tabs>standard-AppLauncher</tabs>
-    <tabs>Object1__c</tabs>
-    <tabs>Omega__c</tabs>
 </CustomApplication>

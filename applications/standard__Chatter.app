@@ -9,6 +9,4 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
-    <tabs>Object1__c</tabs>
-    <tabs>Omega__c</tabs>
 </CustomApplication>

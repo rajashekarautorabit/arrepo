@@ -6,7 +6,5 @@
     <label>LightningInstrumentation</label>
     <navType>Standard</navType>
     <tabs>standard-LightningInstrumentation</tabs>
-    <tabs>Object1__c</tabs>
-    <tabs>Omega__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

@@ -11,6 +11,4 @@
     <tabs>standard-IdeaTheme</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>Object1__c</tabs>
-    <tabs>Omega__c</tabs>
 </CustomApplication>
