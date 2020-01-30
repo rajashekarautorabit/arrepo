@@ -10,7 +10,10 @@
         <members>BGSIGCAP__SignatureCaptureController</members>
         <members>MyApex</members>
         <members>MyApexTest</members>
+        <members>MyFirstApexClass</members>
         <members>MySampleApexClass</members>
+        <members>UnfollowButtonController</members>
+        <members>UnfollowController</members>
         <name>ApexClass</name>
     </types>
     <types>
