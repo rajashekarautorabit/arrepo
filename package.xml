@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>45.0</version>
+    <version>47.0</version>
     <types>
         <members>A0</members>
+        <members>ARTraining</members>
         <members>Apex_Class11</members>
         <members>Apex_Class2Edit</members>
         <members>Apex_Class33</members>
+        <members>BGSIGCAP__SignatureCaptureController</members>
         <members>MyApex</members>
         <members>MyApexTest</members>
         <members>MySampleApexClass</members>
