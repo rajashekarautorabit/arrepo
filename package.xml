@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>45.0</version>
+    <version>46.0</version>
     <types>
         <members>BGSIGCAP__SignatureCaptureController</members>
         <members>BGSIGCAP__SignatureCaptureController_Test</members>
@@ -1233,6 +1233,8 @@
         <members>Chatter_Unfollow_Rules/Chatter_Unfollows_Removed_by_Object</members>
         <members>Chatter_Unfollow_Rules/Chattter_Records_Unfollowed_by_Object</members>
         <members>Chatter_Unfollow_Rules/Queued_Unfollow_Batch_Apex_Jobs</members>
+        <members>TravelersReport</members>
+        <members>TravelersReport/TravelerMyOrgOne</members>
         <name>Report</name>
     </types>
     <types>
