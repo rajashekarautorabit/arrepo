@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Report xmlns="http://soap.sforce.com/2006/04/metadata">
     <columns>
-        <field>USERS.NAME</field>
-    </columns>
-    <columns>
         <field>ACCOUNT.NAME</field>
     </columns>
     <columns>
@@ -32,7 +29,7 @@
     <format>Summary</format>
     <groupingsDown>
         <dateGranularity>Day</dateGranularity>
-        <field>ACCOUNT_ID</field>
+        <field>USERS.NAME</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
     <name>TravelerMyOrgOne</name>
@@ -47,8 +44,8 @@
     <showSubTotals>true</showSubTotals>
     <timeFrameFilter>
         <dateColumn>CREATED_DATE</dateColumn>
-        <endDate>2020-04-16</endDate>
+        <endDate>2020-04-02</endDate>
         <interval>INTERVAL_CUSTOM</interval>
-        <startDate>2020-01-01</startDate>
+        <startDate>2020-02-01</startDate>
     </timeFrameFilter>
 </Report>
